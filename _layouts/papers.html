@@ -16,7 +16,10 @@ layout: default
 		            <div class="people-name text-center">
 		                <p align="center">
 		                	{% if paper.img %}
-		                    	<img class="paper-pic" src="{{ paper.img | prepend: '/assets/img/papers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
+		                    	<!--img class="paper-pic" src="{{ paper.img | prepend: '/assets/img/papers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank"-->
+					<a target="_blank" href="{{ paper.poster | prepend: '/assets/pdf/Posters/' | prepend: site.baseurl | prepend: site.url }}">
+						<img class="paper-pic" src="{{ paper.img | prepend: '/assets/img/Posters/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
+					</a>
 		                    {% else %}
 		                    	<img class="paper-pic" src="{{ 'default.svg' | prepend: '/assets/img/papers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
 		                    {% endif %}
@@ -39,10 +42,20 @@ layout: default
 		                	<br>
 		                	{{ paper.affil }}
 		                {% endif %}
-		                <!-- Link to PDF (if provided) -->
+		                <!-- Link to Paper PDF (if provided) -->
 		                {% if paper.pdf %}
 		                	<br>
 		                	<a href="{{ paper.pdf | prepend: '/assets/pdf/papers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">PDF</a>
+		                {% endif %}
+		                <!-- Link to OpenReview (if provided) -->
+		                {% if paper.openreview %}
+		                	<br>
+		                	<a href="{{ paper.openreview }}" target="_blank">Paper</a>
+		                {% endif %}
+		                <!-- Link to Poster PDF (if provided) -->
+		                {% if paper.poster %}
+		                	&nbsp;|&nbsp;
+		                	<a href="{{ paper.poster | prepend: '/assets/pdf/Posters/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">Poster</a>
 		                {% endif %}
 		            </div>
 		        </td>

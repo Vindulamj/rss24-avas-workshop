@@ -4,4 +4,4 @@ title: Contact Us
 permalink: /contactus/
 ---
 
-Here's how you can contact us ...
+If you have any questions regarding the workshop, please email us at [avs.across.scales@gmail.com]((mailto:avs.across.scales@gmail.com)) and we will get back to you soon.

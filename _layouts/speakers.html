@@ -10,6 +10,12 @@ layout: default
 
   <div class = "post-content">
 	  <table style="border-collapse: collapse; border: none;">
+      <tr style="border: none;">
+        <th>Name</th>
+        <th>Affiations</th>
+        <th>Topic</th>
+        <th>Bio</th>
+      </tr>
 	  	{% for speaker in site.speakers %}
 		    <tr style="border: none;">
 		        <td style="border: none;">
@@ -50,6 +56,11 @@ layout: default
 		        </td>
 		        <td style="border: none;">
 		        	<div class="people-name text-center">
+		        		{{ speaker.topic }}
+		        	</div>
+		        </td>
+		        <td style="border: none;">
+		        	<div class="people-name text-left">
 		        		{{ speaker.content }}
 		        	</div>
 		        </td>

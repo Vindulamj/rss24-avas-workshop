@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -18,31 +18,32 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Sniffle Workshop
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for the workshop site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+## >- # this means to ignore newlines until "baseurl:"
+
+title: AVAS @ RSS 2024
+email: vindula@mit.edu
+description: >
+  <a href="https://roboticsconference.org/" target="_blank">RSS 2024</a> workshop for Autonomous Vehicles Across Scale (AVAS), Jul 15 – Jul 19, 2024, at Delft, Netherlands.
+  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: rethinkmlpapers
-github_username:  rethinkmlpapers
+twitter_username: ""
+github_username:  ""
 
 # Build settings
 plugins:
-  - jekyll-feed
+  # - jekyll-feed
   - jekyll-seo-tag
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
 - index.md
-- speakers.md
-- organizers.md
+# - speakers.md
+# - organizers.md
 - callforpapers.md
-- schedule.md
-- papers.md
+# - schedule.md
+# - papers.md
 - contactus.md
 
 # # Specify the name of a file to show as a masthead graphic at the top of each page, instead of a title, here:
@@ -52,8 +53,8 @@ header_pages:
 
 # A two-line attribution (remove this if you have to, but we'd appreciate if you leave this as is)
 attribution: >
-  Based on a <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> template from a <a href="https://krrish94.github.io">lazy grad student</a>.
-  Some icons made by <a href="https://smashicons.com/" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>.
+  Based on a <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> template from a <a href="https://github.com/krrish94/sniffle-workshop">lazy grad student</a> and modifications done by <a href="https://github.com/zt-yang/rss23-l4tamp-workshop"> Zhutian Yang</a>.
+# Some icons made by <a href="https://smashicons.com/" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
 
 # Displays a "last updated" date in the footer if set to "true"
 last_updated: true
