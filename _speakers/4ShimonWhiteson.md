@@ -25,4 +25,4 @@ topic: Language
 
 <!-- Whatever you write below will show up as the speaker's bio -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque accumsan euismod vulputate. Donec nec elit tellus. Donec ultrices dolor quis lacus pulvinar elementum. Praesent ac diam sed felis sagittis luctus. Nulla sed ligula eget eros dignissim suscipit eu malesuada quam. Nulla sit amet sem a quam faucibus consectetur vel id neque. Aenean vulputate interdum nisl, a tristique eros fringilla eget. Aenean vel sapien id purus egestas imperdiet quis et leo. 
+Shimon Whiteson is the Head of Research at Waymo UK and a Professor of Computer Science at the University of Oxford. His research focuses on deep reinforcement learning and learning from demonstration, with applications in robotics and video games. 
