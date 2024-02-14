@@ -9,7 +9,7 @@ permalink: /callforpapers/
 - Submission deadline: **May 24**
 - Paper acceptance notification: **June 13**
 - Camera-ready due: **July 1**
-- Workshop: **July 14**
+- Workshop: **July 15**
 
 ### Submission Guidelines
 
