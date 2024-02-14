@@ -25,4 +25,4 @@ topic: Language
 
 <!-- Whatever you write below will show up as the speaker's bio -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque accumsan euismod vulputate. Donec nec elit tellus. Donec ultrices dolor quis lacus pulvinar elementum. Praesent ac diam sed felis sagittis luctus. Nulla sed ligula eget eros dignissim suscipit eu malesuada quam. Nulla sit amet sem a quam faucibus consectetur vel id neque. Aenean vulputate interdum nisl, a tristique eros fringilla eget. Aenean vel sapien id purus egestas imperdiet quis et leo. 
+Blaine Leonard is the Transportation Technology Engineer at the Utah Department of Transportation. In this role, he leads the planning and deployment of connected and autonomous vehicles. He has chaired the American Association of State Highway and Transportation Officials (AASHTO) Connected and Automated Vehicles Working Group, is currently co-chair of the AASHTO Technology Subcommittee, and led the Signal Phase and Timing (SPaT) Challenge Tactical Working Group.
