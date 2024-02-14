@@ -25,4 +25,4 @@ topic: Language
 
 <!-- Whatever you write below will show up as the speaker's bio -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque accumsan euismod vulputate. Donec nec elit tellus. Donec ultrices dolor quis lacus pulvinar elementum. Praesent ac diam sed felis sagittis luctus. Nulla sed ligula eget eros dignissim suscipit eu malesuada quam. Nulla sit amet sem a quam faucibus consectetur vel id neque. Aenean vulputate interdum nisl, a tristique eros fringilla eget. Aenean vel sapien id purus egestas imperdiet quis et leo. 
+Ruolin Li will join the Department of Civil and Environmental Engineering at the University of Southern California as an Assistant Professor in Fall 2024. She is currently a postdoctoral scholar with the Department of Aeronautics and Astronautics at Stanford. Her work lies at the intersection of human behavior modeling, modeling of multi-agent systems, and control and optimization, aiming to enhance the societal benefits of the intelligent transportation system.
