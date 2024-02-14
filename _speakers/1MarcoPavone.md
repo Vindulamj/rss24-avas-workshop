@@ -25,4 +25,4 @@ topic: Language
 
 <!-- Whatever you write below will show up as the speaker's bio -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque accumsan euismod vulputate. Donec nec elit tellus. Donec ultrices dolor quis lacus pulvinar elementum. Praesent ac diam sed felis sagittis luctus. Nulla sed ligula eget eros dignissim suscipit eu malesuada quam. Nulla sit amet sem a quam faucibus consectetur vel id neque. Aenean vulputate interdum nisl, a tristique eros fringilla eget. Aenean vel sapien id purus egestas imperdiet quis et leo. 
+Marco Pavone is Director of Autonomous Vehicle Research at NVIDIA and an Associate Professor of Aeronautics and Astronautics at Stanford University, where he directs the Autonomous Systems Laboratory and the Center for Automotive Research. His main research interests are in the development of methodologies for the analysis, design, and control of autonomous systems, with an emphasis on self-driving cars, autonomous aerospace vehicles, and future mobility systems.
