@@ -25,4 +25,4 @@ topic: Language
 
 <!-- Whatever you write below will show up as the speaker's bio -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque accumsan euismod vulputate. Donec nec elit tellus. Donec ultrices dolor quis lacus pulvinar elementum. Praesent ac diam sed felis sagittis luctus. Nulla sed ligula eget eros dignissim suscipit eu malesuada quam. Nulla sit amet sem a quam faucibus consectetur vel id neque. Aenean vulputate interdum nisl, a tristique eros fringilla eget. Aenean vel sapien id purus egestas imperdiet quis et leo. 
+Cathy Wu is an Assistant Professor at MIT in the Laboratory for Information \& Decision Systems, the Department of Civil \& Environmental Engineering, and the Institute for Data, Systems, and Society. She is interested in developing principled computational tools to enable reliable decision-making in sociotechnical systems, and focuses on the intersection of machine learning, control, and mobility.
