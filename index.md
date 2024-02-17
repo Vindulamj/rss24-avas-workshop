@@ -41,72 +41,68 @@ A link to live stream of the workshop will be provided closer to the date. The r
     <td>Introductory Remarks</td>
   </tr>
   <tr>
-    <td>9:10 am - 9:25 am</td>
+    <td>9:10 am - 9:50 am</td>
     <td>Invited Talks 1: Marco Pavone (NVIDIA)</td>
   </tr>
   <tr>
-    <td>9:25 am - 9:40 am</td>
+    <td>9:50 am - 10:30 am</td>
     <td>Invited Talks 2: Samitha Samaranayake (Cornell University)</td>
   </tr>
   <tr>
-    <td>9:40 am - 9:55 am</td>
+    <td>10:30 am - 10:50 am</td>
+    <td>Coffee Break</td>
+  </tr>
+  <tr>
+    <td>10:50 am - 11:30 am</td>
     <td>Invited Talks 3: Ruolin Li (Stanford University)</td>
   </tr>
   <tr>
-    <td>9:55 am - 10:30 am</td>
+    <td>11:30 am - 12:15 pm</td>
     <td>Panel 1: Marco Pavone, Samitha Samaranayake, Ruolin Li</td>
   </tr>
   <tr>
-    <td>10:30 am - 11:00 am</td>
-    <td>Coffee Break</td>
-  </tr>
-  <tr>
-    <td>11:00 am - 11:15 am</td>
-    <td>Spotlight Talks 1: TBD</td>
-  </tr>
-  <tr>
-    <td>11:15 am - 11:30 am</td>
-    <td>Spotlight Talks 2: TBD</td>
-  </tr>
-  <tr>
-    <td>11:30 am - 11:45 am</td>
-    <td>Spotlight Talks 3: TBD</td>
-  </tr>
-  <tr>
-    <td>11:45 am - 12:00 pm</td>
-    <td>Spotlight Talks 4: TBD</td>
-  </tr>
-  <tr>
-    <td>12:00 pm - 1:30 pm</td>
+    <td>12:15 pm - 1:15 pm</td>
     <td>Lunch</td>
   </tr>
   <tr>
-    <td>1:30 pm - 3:00 pm</td>
+    <td>1:15 pm - 1:25 pm</td>
+    <td>Spotlight Talks 1 (Scale 1)</td>
+  </tr>
+  <tr>
+    <td>1:25 pm - 1:35 pm</td>
+    <td>Spotlight Talks 2 (Scale 2)</td>
+  </tr>
+  <tr>
+    <td>1:35 pm - 1:45 pm</td>
+    <td>Spotlight Talks 3 (Scale 3)</td>
+  </tr>
+  <tr>
+    <td>1:45 pm - 2:45 pm</td>
     <td>Poster session</td>
   </tr>
   <tr>
-    <td>3:00 pm - 3:30 pm</td>
+    <td>2:45 pm - 3:05 pm</td>
     <td>Coffee Break</td>
   </tr>
   <tr>
-    <td>3:30 pm - 3:45 pm</td>
-    <td>Invited Talks 4: Shimon Whiteson (Waymo UK)</td>
+    <td>3:05 pm - 3:45 pm</td>
+    <td>Invited Talks 4: Blaine Leonard (Utah DOT)</td>
   </tr>
   <tr>
-    <td>3:45 pm - 4:00 pm</td>
-    <td>Invited Talks 5: Blaine Leonard (Utah DOT)</td>
+    <td>3:45 pm - 4:25 pm</td>
+    <td>Invited Talks 5: Cathy Wu (MIT)</td>
   </tr>
   <tr>
-    <td>4:00 pm - 4:15 pm</td>
-    <td>Invited Talks 6: Cathy Wu (MIT)</td>
+    <td>4:25 pm - 5:05 pm</td>
+    <td>Invited Talks 6: Edwin Olson (May Mobility)</td>
   </tr>
   <tr>
-    <td>4:15 pm - 4:50 pm</td>
-    <td>Panel 2: Shimon Whiteson, Blaine Leonard, Cathy Wu</td>
+    <td>5:05 pm - 5:50 pm</td>
+    <td>Panel 2: Blaine Leonard, Cathy Wu, Edwin Olson</td>
   </tr>
   <tr>
-    <td>4:50 pm - 5:00 pm</td>
-    <td>Conclusion Remarks / Best Paper Award</td>
+    <td>5:50 pm - 6:00 pm</td>
+    <td>Best Paper Award & Conclusion Remarks</td>
   </tr>
 </tbody>
 </table>
