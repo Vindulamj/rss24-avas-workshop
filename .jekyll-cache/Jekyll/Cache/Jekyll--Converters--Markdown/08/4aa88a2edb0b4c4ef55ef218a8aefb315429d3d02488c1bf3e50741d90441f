@@ -1,0 +1,104 @@
+I"�<p><img src="assets/img/avas-banner.png" alt="AVAS banner" /></p>
+
+<p>Progress in autonomous vehicle (AV) technologies is indisputable, as evidenced by growing industrial and even commercial deployments. The time is ripe for the research community to reflect on the road ahead — including upcoming challenges and opportunities. Despite the real-world deployments, there remains no satisfactory answer to the questions of how safe is `safe enough,’ how to assure safety at scale, the extent to which AV technology will provide societal value (e.g., congestion relief, emissions reduction, increased mobility access), nor to the role of digital and physical infrastructure in complementing AV technology. These questions require not only consideration of the ego vehicle, but also the traffic system and the transportation network as a whole.</p>
+
+<p>While robotics research has focused on the ego vehicle challenges, such as advancing perception, localization, and planning, parallel lines of research in the control, operations research, and transportation communities examine questions beyond the ego vehicle, such as system-level control, operations, and broader implications of AV technologies. These emerging efforts revolve around the challenges, impact, and applications of AVs, spanning the traffic level (e.g., utilizing AVs as Lagrangian actuators for optimizing traffic flow), network level (e.g., integrating AVs as robo-taxis in dynamic mobility-on-demand systems), and even the regional level (e.g., shaping AV-related policymaking).</p>
+
+<p>In this workshop, we encourage discussion and collaboration across the three ‘scales’ of AV research: (1) ego vehicle, (2) traffic, and (3) network. Up to this point, such scales have primarily been investigated by disparate research communities. But ultimately, they will affect people’s lives in the same transportation system. Hence, this workshop seeks to bring together these perspectives and researchers, with the aim of providing space for lively discussion and debate on how to best move forward for a holistic design of future AV-enabled mobility systems.</p>
+
+<h4 id="discussion-topics">Discussion Topics</h4>
+
+<ul>
+  <li><strong>Ego-vehicle scale</strong>: What fundamental technical challenges remain for autonomous driving? How safe is safe enough, and how can we know if we have achieved the appropriate level of safety? Potential sub-topics include planning, perception, localization, mapping, behavior prediction, human factors, and safety assurances for AVs.</li>
+  <li><strong>Traffic scale</strong>: What value can AVs provide to the traffic flow, beyond their immediate passengers? What is the role of infrastructure in complementing AV technology? What are the fundamental similarities and differences in leveraging vehicles for traffic control versus traditional means, such as traffic signal control, ramp metering, variable speed limit control, or congestion pricing? Potential sub-topics include optimizing AVs for system-level objectives(ex: traffic smoothing and eco-driving), mixed autonomy traffic, cooperative sensing or control, long-term traffic simulation and calibration, large-scale multi-agent traffic optimization, value of sensor information, and infrastructure readiness.</li>
+  <li><strong>Network scale</strong>: What are the implications of AV technology on travel demand, energy demand, mobility access, land use, and parking? What is the role of algorithmic research in supporting changes to policy and operations at the transportation network scale? Potential sub-topics include network optimization, transit integration, and land use optimization (e.g., parking) in light of AVs.</li>
+  <li><strong>Scale overlaps</strong>: Potential sub-topics include co-design techniques that involve two or more scales of autonomous vehicle research.</li>
+  <li><strong>Benchmarks</strong>: What benchmark environments will help the community better measure the progress of autonomous vehicle research at different scales?</li>
+</ul>
+
+<h3 id="schedule">Schedule</h3>
+
+<p>The workshop will be held in-person as a full day workshop on July 15 in Delft, Netherlands.</p>
+
+<p>A link to live stream of the workshop will be provided closer to the date. The recording will be made available through Youtube after the workshop.</p>
+<table>
+<thead>
+  <tr>
+    <th>Time (<a href="https://www.worldtimeserver.com/current_time_in_NL.aspx?city=Delft">CET</a>, GMT+1)</th>
+    <th>Event</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>9.00 am - 9:15 am</td>
+    <td>Introductory Remarks</td>
+  </tr>
+  <tr>
+    <td>9:15 am - 9:55 am</td>
+    <td>Invited Talks 1: Marco Pavone (NVIDIA)</td>
+  </tr>
+  <tr>
+    <td>10:00 am - 10:30 am</td>
+    <td>Coffee Break and Poster Session</td>
+  </tr>
+  <tr>
+    <td>10:30 am - 11:10 am</td>
+    <td>Invited Talks 2: Samitha Samaranayake (Cornell University)</td>
+  </tr>
+  <tr>
+    <td>11:10 am - 11:50 am</td>
+    <td>Invited Talks 3: TBA </td>
+  </tr>
+  <tr>
+    <td>11:50 am - 12:30 pm</td>
+    <td>Panel 1: Marco Pavone, Samitha Samaranayake, TBA</td>
+  </tr>
+  <tr>
+    <td>12:30 pm - 2:00 pm</td>
+    <td>Lunch Break</td>
+  </tr>
+  <tr>
+    <td>2:00 pm - 2:10 pm</td>
+    <td>Spotlight Talks 1 (Scale 1)</td>
+  </tr>
+  <tr>
+    <td>2:10 pm - 2:20 pm</td>
+    <td>Spotlight Talks 2 (Scale 2)</td>
+  </tr>
+  <tr>
+    <td>2:20 pm - 2:30 pm</td>
+    <td>Spotlight Talks 3 (Scale 3)</td>
+  </tr>
+  <tr>
+    <td>2:00 pm - 2:40 pm</td>
+    <td>Invited Talks 4: TBA</td>
+  </tr>
+  <tr>
+    <td>2:40 pm - 3:20 pm</td>
+    <td>Invited Talks 5: Cathy Wu (MIT)</td>
+  </tr>
+  
+  <tr>
+    <td>3:30 pm - 4:00 pm</td>
+    <td>Coffee Break and Poster Session</td>
+  </tr>
+  
+  <tr>
+    <td>3:45 pm - 4:25 pm</td>
+    <td>Invited Talks 5: Cathy Wu (MIT)</td>
+  </tr>
+  <tr>
+    <td>4:25 pm - 5:05 pm</td>
+    <td>Invited Talks 6: Edwin Olson (May Mobility)</td>
+  </tr>
+  <tr>
+    <td>5:05 pm - 5:50 pm</td>
+    <td>Panel 2: Blaine Leonard, Cathy Wu, Edwin Olson</td>
+  </tr>
+  <tr>
+    <td>5:50 pm - 6:00 pm</td>
+    <td>Best Paper Award &amp; Conclusion Remarks</td>
+  </tr>
+</tbody>
+</table>
+:ET

@@ -25,7 +25,7 @@ In this workshop, we encourage discussion and collaboration across the three ‘
 
 ### Schedule
 
-The workshop will be held in-person on July 15 in in Delft, Netherlands. 
+The workshop will be held in-person as a full day workshop on July 15 in Delft, Netherlands. 
 
 A link to live stream of the workshop will be provided closer to the date. The recording will be made available through Youtube after the workshop.
 <table>
@@ -37,71 +37,67 @@ A link to live stream of the workshop will be provided closer to the date. The r
 </thead>
 <tbody>
   <tr>
-    <td>9:00 am - 9:10 am</td>
+    <td>8.45 am - 9:00 am</td>
     <td>Introductory Remarks</td>
   </tr>
   <tr>
-    <td>9:10 am - 9:50 am</td>
-    <td>Invited Talks 1: Marco Pavone (NVIDIA)</td>
+    <td>9:00 am - 9:30 am</td>
+    <td>Invited Talk 1: Marco Pavone (NVIDIA)</td>
   </tr>
   <tr>
-    <td>9:50 am - 10:30 am</td>
-    <td>Invited Talks 2: Samitha Samaranayake (Cornell University)</td>
+    <td>9:30 am - 10:00 am</td>
+    <td>Invited Talk 2: Samitha Samaranayake (Cornell University)</td>
   </tr>
   <tr>
-    <td>10:30 am - 10:50 am</td>
-    <td>Coffee Break</td>
+    <td>10:00 am - 10:30 am</td>
+    <td>Coffee Break and Poster Session</td>
   </tr>
   <tr>
-    <td>10:50 am - 11:30 am</td>
-    <td>Invited Talks 3: Ruolin Li (Stanford University)</td>
+    <td>10:30 am - 11:00 am</td>
+    <td>Invited Talk 3: TBA </td>
   </tr>
   <tr>
-    <td>11:30 am - 12:15 pm</td>
-    <td>Panel 1: Marco Pavone, Samitha Samaranayake, Ruolin Li</td>
+    <td>11:00 am - 11:10 am</td>
+    <td>Spotlight Talk 1 (Scale 1)</td>
   </tr>
   <tr>
-    <td>12:15 pm - 1:15 pm</td>
-    <td>Lunch</td>
+    <td>11:10 am - 11:20 am</td>
+    <td>Spotlight Talk 2 (Scale 2)</td>
   </tr>
   <tr>
-    <td>1:15 pm - 1:25 pm</td>
-    <td>Spotlight Talks 1 (Scale 1)</td>
+    <td>11:20 am - 11:30 am</td>
+    <td>Spotlight Talk 3 (Scale 3)</td>
   </tr>
   <tr>
-    <td>1:25 pm - 1:35 pm</td>
-    <td>Spotlight Talks 2 (Scale 2)</td>
+    <td>11:30 am - 12:30 pm</td>
+    <td>Panel Discussion 1: Marco Pavone, Samitha Samaranayake, TBA</td>
   </tr>
   <tr>
-    <td>1:35 pm - 1:45 pm</td>
-    <td>Spotlight Talks 3 (Scale 3)</td>
+    <td>12:30 pm - 2:00 pm</td>
+    <td>Lunch Break</td>
   </tr>
   <tr>
-    <td>1:45 pm - 2:45 pm</td>
-    <td>Poster session</td>
+    <td>2:00 pm - 2:30 pm</td>
+    <td>Invited Talk 4: John Subosits (Toyota Research Institute)</td>
   </tr>
   <tr>
-    <td>2:45 pm - 3:05 pm</td>
-    <td>Coffee Break</td>
+    <td>2:30 pm - 3:00 pm</td>
+    <td>Invited Talk 5: TBA</td>
   </tr>
   <tr>
-    <td>3:05 pm - 3:45 pm</td>
-    <td>Invited Talks 4: Blaine Leonard (Utah DOT)</td>
+    <td>3:00 pm - 3:30 pm</td>
+    <td>Invited Talk 6: Cathy Wu (MIT)</td>
   </tr>
   <tr>
-    <td>3:45 pm - 4:25 pm</td>
-    <td>Invited Talks 5: Cathy Wu (MIT)</td>
+    <td>3:30 pm - 4:00 pm</td>
+    <td>Coffee Break and Poster Session</td>
   </tr>
   <tr>
-    <td>4:25 pm - 5:05 pm</td>
-    <td>Invited Talks 6: Edwin Olson (May Mobility)</td>
+    <td>4:00 pm - 4:45 pm</td>
+    <td>Panel Discussion 2: John Subosits, TBA, Cathy Wu</td>
   </tr>
   <tr>
-    <td>5:05 pm - 5:50 pm</td>
-    <td>Panel 2: Blaine Leonard, Cathy Wu, Edwin Olson</td>
-  </tr>
-  <tr>
-    <td>5:50 pm - 6:00 pm</td>
+    <td>4:45 pm - 5:00 pm</td>
     <td>Best Paper Award & Conclusion Remarks</td>
   </tr>
 </tbody>

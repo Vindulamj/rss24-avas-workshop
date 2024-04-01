@@ -1,0 +1,21 @@
+I"»<h3 id="important-dates-aoe">Important dates (AoE):</h3>
+<ul>
+  <li>Submission open: <strong>May 1</strong></li>
+  <li>Submission deadline: <strong>May 24</strong></li>
+  <li>Paper acceptance notification: <strong>June 13</strong></li>
+  <li>Camera-ready due: <strong>July 1</strong></li>
+  <li>Workshop: <strong>July 15</strong></li>
+</ul>
+
+<h3 id="submission-guidelines">Submission Guidelines</h3>
+
+<p>Submissions can describe either work in progress or mature work that would be of interest to the community. We welcome submissions across any scale of autonomous vehicle research.</p>
+
+<p>Two types of papers can be submitted:</p>
+<ul>
+  <li><strong>Short papers</strong>: 4 pages + references. Appendix is allowed with no page limit, included in the same document as main text.</li>
+  <li><strong>Full technical papers</strong>: 8 pages + references. Appendix is allowed with no page limit, included in the same document as main text.</li>
+</ul>
+
+<p>Submissions of papers being reviewed at other venues are welcome since AVAS is a non-archival and does not necessitate a copyright transfer. If such papers are currently under blind review, consider anonymizing the submission. Submissions may use any number of pages for appendices if required but the reviewers are not required to read them. Please use the RSS <a href="https://roboticsconference.org/docs/paper-template-latex.tar.gz">LaTeX paper template</a> and <a href="https://openreview.net/">submit</a> via Open Review. Submissions should adhere to the <a href="https://roboticsconference.org/information/authorinfo/">RSS Code of Conduct</a> and <a href="https://roboticsconference.org/information/authorinfo/">RSS policy on using large language models</a>.</p>
+:ET
