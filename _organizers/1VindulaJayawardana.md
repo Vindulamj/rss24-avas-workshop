@@ -12,7 +12,7 @@ affil_link: https://mit.edu/
 
 # An image of the organizer (square aspect ratio works the best)
 # img: jane.jpg # (place in the `assets/img/organizers` directory)
-img_url: assets/img/organizers/vindulajayawardana.png
+img_url: assets/img/organizers/vindulajayawardana.jpg
 
 # Secondary affiliation
 # affil2: 
