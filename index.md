@@ -54,7 +54,7 @@ A link to live stream of the workshop will be provided closer to the date. The r
   </tr>
   <tr>
     <td>10:30 am - 11:00 am</td>
-    <td>Invited Talk 3: TBA </td>
+    <td>Invited Talk 3: Negar Mehr (UC Berkeley) </td>
   </tr>
   <tr>
     <td>11:00 am - 11:10 am</td>
@@ -70,7 +70,7 @@ A link to live stream of the workshop will be provided closer to the date. The r
   </tr>
   <tr>
     <td>11:30 am - 12:30 pm</td>
-    <td>Panel Discussion 1: Marco Pavone, Samitha Samaranayake, TBA</td>
+    <td>Panel Discussion 1: Marco Pavone, Samitha Samaranayake, Negar Mehr</td>
   </tr>
   <tr>
     <td>12:30 pm - 2:00 pm</td>
