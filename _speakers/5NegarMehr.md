@@ -12,7 +12,7 @@ affil_link: https://www.berkeley.edu/
 
 # An image of the organizer (square aspect ratio works the best)
 # img: jane.jpg # (place in the `assets/img/organizers` directory)
-img_url: assets/img/speakers/negarmehr.jpeg
+img_url: assets/img/speakers/negarmehr.jpg
 
 # (Optional) Secondary affiliation of the speaker
 # affil2:
