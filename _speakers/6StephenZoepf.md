@@ -3,7 +3,7 @@
 name: Stephen Zoepf
 
 # Link to the speaker's webpage
-webpage: https://www.transportation.gov/hasscoe/who-we-are
+webpage: https://scholar.google.com/citations?user=aC99WNcAAAAJ
 
 # Primary affiliation of the speaker
 affil: U.S. Department of Transportation
