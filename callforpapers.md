@@ -7,7 +7,7 @@ permalink: /callforpapers/
 ### Important dates (AoE):
 - Submission open: **May 1**
 - Submission deadline: ~~**May 24**~~ **June 5**
-- Paper acceptance notification: **June 13**
+- Paper acceptance notification: ~~**June 13**~~ **June 21**
 - Camera-ready due: **July 1**
 - Workshop: **July 15 (Full Day)**
 
