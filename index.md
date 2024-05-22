@@ -86,7 +86,7 @@ A link to live stream of the workshop will be provided closer to the date. The r
   </tr>
   <tr>
     <td>3:00 pm - 3:30 pm</td>
-    <td>Invited Talk 6: Cathy Wu (MIT)</td>
+    <td>Invited Talk 6: Eugene Vinitsky (New York University)</td>
   </tr>
   <tr>
     <td>3:30 pm - 4:00 pm</td>
@@ -94,7 +94,7 @@ A link to live stream of the workshop will be provided closer to the date. The r
   </tr>
   <tr>
     <td>4:00 pm - 4:45 pm</td>
-    <td>Panel Discussion 2: John Subosits, Stephen Zoepf, Cathy Wu</td>
+    <td>Panel Discussion 2: John Subosits, Stephen Zoepf, Eugene Vinitsky</td>
   </tr>
   <tr>
     <td>4:45 pm - 5:00 pm</td>
