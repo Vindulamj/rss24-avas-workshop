@@ -100,5 +100,9 @@ A link to live stream of the workshop will be provided closer to the date. The r
     <td>4:45 pm - 5:00 pm</td>
     <td>Best Paper Award & Conclusion Remarks</td>
   </tr>
+  <tr>
+    <td>7:30 pm - 10:30 pm</td>
+    <td>AVAS Reception hosted by <a href="https://www.getcruise.com/">Cruise</a> at <a href="https://westcordhotelsnl.pixieset.com/hotelarsenaal/">Hotel Arsenaal</a></td>
+  </tr>
 </tbody>
 </table>
