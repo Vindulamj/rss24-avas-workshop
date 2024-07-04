@@ -106,8 +106,3 @@ A link to live stream of the workshop will be provided closer to the date. The r
   </tr>
 </tbody>
 </table>
-
-### Sponsors
-
-<img src="assets/img/organizers/xruise_logo.png" alt="Cruise logo" style="display: block; margin-left: auto; margin-right: auto; width: 500px; height: 600px;">
-
