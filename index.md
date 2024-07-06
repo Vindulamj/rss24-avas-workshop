@@ -41,60 +41,56 @@ A link to live stream of the workshop will be provided closer to the date. The r
     <td>Introductory Remarks</td>
   </tr>
   <tr>
-    <td>9:00 am - 9:30 am</td>
-    <td>Invited Talk 1: Marco Pavone (NVIDIA)</td>
+    <td>9:00 am - 9:40 am</td>
+    <td>Invited Talk 1 (Scale 1): Marco Pavone (NVIDIA) - Scale 1</td>
   </tr>
   <tr>
-    <td>9:30 am - 10:00 am</td>
-    <td>Invited Talk 2: Samitha Samaranayake (Cornell University)</td>
+    <td>9:40 am - 9:50 am</td>
+    <td>Spotlight Talk 1 (Scale 1)</td>
+  </tr>
+  <tr>
+    <td>9:50 am - 10.00 am</td>
+    <td>Spotlight Talk 2 (Scale 2)</td>
   </tr>
   <tr>
     <td>10:00 am - 10:30 am</td>
     <td>Coffee Break and Poster Session</td>
   </tr>
   <tr>
-    <td>10:30 am - 11:00 am</td>
-    <td>Invited Talk 3: Negar Mehr (UC Berkeley) </td>
+    <td>10:30 am - 11:10 am</td>
+    <td>Invited Talk 2 (Scale 3): Samitha Samaranayake (Cornell University)</td>
   </tr>
   <tr>
-    <td>11:00 am - 11:10 am</td>
-    <td>Spotlight Talk 1 (Scale 1)</td>
+    <td>11:10 am - 11:50 am</td>
+    <td>Invited Talk 3 (Scale 2): Eugene Vinitsky (New York University)  </td>
   </tr>
   <tr>
-    <td>11:10 am - 11:20 am</td>
-    <td>Spotlight Talk 2 (Scale 2)</td>
-  </tr>
-  <tr>
-    <td>11:20 am - 11:30 am</td>
-    <td>Spotlight Talk 3 (Scale 3)</td>
-  </tr>
-  <tr>
-    <td>11:30 am - 12:30 pm</td>
-    <td>Panel Discussion 1: Marco Pavone, Samitha Samaranayake, Negar Mehr</td>
+    <td>11:50 am - 12:30 pm</td>
+    <td>Invited Talk 4 (Scale 1): John Subosits (Toyota Research Institute)</td>
   </tr>
   <tr>
     <td>12:30 pm - 2:00 pm</td>
     <td>Lunch Break</td>
   </tr>
   <tr>
-    <td>2:00 pm - 2:30 pm</td>
-    <td>Invited Talk 4: John Subosits (Toyota Research Institute)</td>
+    <td>2:00 pm - 2:10 pm</td>
+    <td>Spotlight Talk 3 (Scale 3)</td>
   </tr>
   <tr>
-    <td>2:30 pm - 3:00 pm</td>
-    <td>Invited Talk 5: Stephen Zoepf (U.S. Department of Tranportation)</td>
+    <td>2:10 pm - 2:50 pm</td>
+    <td>Invited Talk 5 (Scale 3): Stephen Zoepf (U.S. Department of Transportation)</td>
   </tr>
   <tr>
-    <td>3:00 pm - 3:30 pm</td>
-    <td>Invited Talk 6: Eugene Vinitsky (New York University)</td>
+    <td>2:50 pm - 3:30 pm</td>
+    <td>Invited Talk 6 (Scale 2): Negar Mehr (UC Berkeley)</td>
   </tr>
   <tr>
     <td>3:30 pm - 4:00 pm</td>
     <td>Coffee Break and Poster Session</td>
   </tr>
   <tr>
-    <td>4:00 pm - 4:45 pm</td>
-    <td>Panel Discussion 2: John Subosits, Stephen Zoepf, Eugene Vinitsky</td>
+    <td>4:00 pm - 4:50 pm</td>
+    <td>Panel Discussion 2: Marco Pavone, Samitha Samaranayake, John Subosits, Eugene Vinitsky</td>
   </tr>
   <tr>
     <td>4:45 pm - 5:00 pm</td>
