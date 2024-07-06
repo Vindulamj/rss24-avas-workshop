@@ -42,7 +42,7 @@ A link to live stream of the workshop will be provided closer to the date. The r
   </tr>
   <tr>
     <td>9:00 am - 9:40 am</td>
-    <td>Invited Talk 1 (Scale 1): Marco Pavone (NVIDIA) - Scale 1</td>
+    <td>Invited Talk 1 (Scale 1): Marco Pavone (NVIDIA)</td>
   </tr>
   <tr>
     <td>9:40 am - 9:50 am</td>
