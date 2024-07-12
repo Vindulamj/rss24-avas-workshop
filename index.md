@@ -78,7 +78,7 @@ A link to live stream of the workshop will be provided closer to the date. The r
   </tr>
   <tr>
     <td>2:10 pm - 2:50 pm</td>
-    <td>Invited Talk 5 (Scale 3): Stephen Zoepf (U.S. Department of Transportation)</td>
+    <td>Invited Talk 5 (Scale 3): Alan Rao (U.S. DOT Volpe National Transportation Systems Center)</td>
   </tr>
   <tr>
     <td>2:50 pm - 3:30 pm</td>
@@ -90,7 +90,7 @@ A link to live stream of the workshop will be provided closer to the date. The r
   </tr>
   <tr>
     <td>4:00 pm - 4:50 pm</td>
-    <td>Panel Discussion 2: Marco Pavone, Samitha Samaranayake, John Subosits, Eugene Vinitsky</td>
+    <td>Panel Discussion: Marco Pavone, Samitha Samaranayake, John Subosits, Eugene Vinitsky</td>
   </tr>
   <tr>
     <td>4:45 pm - 5:00 pm</td>
