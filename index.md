@@ -65,15 +65,36 @@ A link to live stream of the workshop will be provided closer to the date. The r
   </tr>
   <tr>
     <td>10:30 am - 11:10 am</td>
-    <td>Invited Talk 2 (Scale 3): Samitha Samaranayake (Cornell University)</td>
+    <td>Invited Talk 2 (Scale 3): Samitha Samaranayake (Cornell University)
+    <details>
+      <summary>Talk title and abstract</summary>
+      <p></p>
+      <p><strong>Title:</strong>The need for a greater focus on mass-transit as we move towards an autonomous vehicle future</p>
+      <p><strong>Abstract:</strong> Affordable, equitable and efficient access to personal mobility is a fundamental societal need---with broad implications for personal well-being, economic mobility, education, and public health. While shared mobility, autonomy and electrification are getting most of the attention in the research community and industry, we can not have urban transportation systems that are sustainable, equitable and scalable without a fundamental focus on mass-transit. This raises many interesting questions on when and how innovations in vehicle autonomy can be integrated with mass transit to improve personal mobility and related societal goals (e.g., sustainability and equity). This talk will focus on some algorithmic and practical questions related to designing and operating new multi-modal transit systems and the value of autonomy in this context. We will discuss the problem setting at a high-level and talk about some specific challenges/solutions for ride-pooling (a.k.a. microtransit, dial-ride) and bus line-planning in the multi-modal setting. We will also have some discussion on equity considerations if time permits. </p>
+    </details>
+    </td>
   </tr>
   <tr>
     <td>11:10 am - 11:50 am</td>
-    <td>Invited Talk 3 (Scale 2): Eugene Vinitsky (New York University)  </td>
+    <td>Invited Talk 3 (Scale 2): Eugene Vinitsky (New York University)
+    <details>
+      <summary>Talk title and abstract</summary>
+      <p></p>
+      <p><strong>Title:</strong>Progress and bottlenecks in deploying mixed autonomy traffic optimization at scale</p>
+      <p><strong>Abstract:</strong> The increasing penetration rate of level-2 autonomous vehicles with autonomous distance and lane-keep represents an opportunity to begin testing and implementing automated schemes for improving congestion and energy efficiency. We report on the algorithms and outcome of the CIRCLES project, which deployed 100 reinforcement-learning-controlled vehicles aiming to diminish the energy impact of stop-and-go waves. Finally, we discuss lessons learned from the test that represent serious bottlenecks limiting the scaling and efficacy of mixed autonomy traffic smoothing and some prospective research approaches to resolving them.</p>
+    </details>
+    </td>
   </tr>
   <tr>
     <td>11:50 am - 12:30 pm</td>
-    <td>Invited Talk 4 (Scale 1): John Subosits (Toyota Research Institute)</td>
+    <td>Invited Talk 4 (Scale 1): John Subosits (Toyota Research Institute)
+    <details>
+      <summary>Talk title and abstract</summary>
+      <p></p>
+      <p><strong>Title:</strong>Uncertainty-Aware Modeling and Control for Driving at the Limits of Handling</p>
+      <p><strong>Abstract:</strong> Human drivers skilled in motorsports disciplines such as circuit racing, drifting, and rally, display an incredible ability to control their vehicle up to the limits of its capability, even in uncertain, changing conditions.  Inspired by the possibility of using these capabilities for collision avoidance, autonomous vehicle research has yielded a  number of impressive demonstrations of autonomous racing and drifting. However, these systems still do not match the performance of the best human drivers, particularly in terms of robustness to uncertainty.  This talk will argue for uncertainty-aware control as a means to help autonomous vehicles behave appropriately cautiously in critical situations and will present our ongoing work in modeling uncertain system dynamics and in using these models for planning and control. </p>
+    </details>
+    </td>
   </tr>
   <tr>
     <td>12:30 pm - 2:00 pm</td>
@@ -85,11 +106,25 @@ A link to live stream of the workshop will be provided closer to the date. The r
   </tr>
   <tr>
     <td>2:10 pm - 2:50 pm</td>
-    <td>Invited Talk 5 (Scale 3): Alan Rao (U.S. DOT Volpe National Transportation Systems Center)</td>
+    <td>Invited Talk 5 (Scale 3): Alan Rao (U.S. DOT Volpe National Transportation Systems Center)
+    <details>
+      <summary>Talk title and abstract</summary>
+      <p></p>
+      <p><strong>Title:</strong>TBA</p>
+      <p><strong>Abstract:</strong> TBA </p>
+    </details>
+    </td>
   </tr>
   <tr>
     <td>2:50 pm - 3:30 pm</td>
-    <td>Invited Talk 6 (Scale 2): Negar Mehr (UC Berkeley)</td>
+    <td>Invited Talk 6 (Scale 2): Negar Mehr (UC Berkeley)
+    <details>
+      <summary>Talk title and abstract</summary>
+      <p></p>
+      <p><strong>Title:</strong>Socially-Aware Control of Mixed-Autonomy Traffic Networks in the Face of Evolving Human Behavior</p>
+      <p><strong>Abstract:</strong> As autonomous cars become tangible technologies, they need to be integrated into environments shared by humans. A key challenge in this integration is that humans are not programmable devices that can simply be endowed with objectives to optimize. Humans are strategic decision-makers who adapt and evolve. Consequently, the interaction between humans and autonomous cars may have complex and even undesirable impacts on society. Therefore, when designing control strategies for future mobility systems, we must account for the social implications of the interaction between humans and autonomous systems. In this talk, I will address the socially-aware control of mixed-autonomy traffic networks, where roads are shared by human-driven and autonomous cars. I will explore the system-level mobility implications of these mixed-autonomy networks, focusing on travelers' routing decisions as a key factor affecting overall mobility. I will discuss control algorithms that promote efficient routing decisions by travelers in mixed-autonomy networks. I will cover the research challenges associated with the socially-aware control of the core components of a mixed-autonomy network: autonomous cars, humans, and the transportation infrastructure. </p>
+    </details>
+    </td>
   </tr>
   <tr>
     <td>3:30 pm - 4:00 pm</td>

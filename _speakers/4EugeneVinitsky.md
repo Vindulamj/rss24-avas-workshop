@@ -25,4 +25,4 @@ topic: Language
 
 <!-- Whatever you write below will show up as the speaker's bio -->
 
-Eugene Vinitsky is an Assistant Professor of Civil and Urban Engineering at NYU and a member of the C2SMARTER consortium. His primary research interest is figuring out how to make developing multi-agent controllers, planners, and intelligence as easy as possible by developing new learning algorithms, software, and tools. He looks for applications of these techniques in civil engineering problems and autonomy. He received his PhD in controls engineering from UC Berkeley.
+Eugene Vinitsky is an assistant Professor at NYU in the Civil and Urban Engineering department and a member of the C2SMARTER consortium. His research studies the application and development of multi-agent reinforcement learning algorithms and agents with an emphasis on their use in urban autonomy and transportation. He received his PhD from UC Berkeley in Controls and has worked as a researcher at Tesla, Deepmind, Facebook AI research, and Apple Special Projects.

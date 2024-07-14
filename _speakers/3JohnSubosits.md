@@ -24,4 +24,4 @@ topic: Language
 ---
 
 <!-- Whatever you write below will show up as the speaker's bio -->
-John Subosits is the manager of the Performance-Centric Machine Learning (PCML) team within the Human Interactive Driving (HID) division at Toyota Research Institute (TRI). His research focuses on the creation of driver models that drive and adapt as well as the best human racing drivers. He holds a bachelor's degree in mechanical and aerospace engineering from Princeton University and master's and Ph.D. degrees in mechanical engineering from Stanford University. Trajectory planning for autonomous vehicles at their performance limits was the focus of his doctoral work.
+John Subosits received his B.S.E. degree in mechanical and aerospace engineering from Princeton University and M.S. and Ph.D. degrees in mechanical engineering from Stanford University.  Currently, he leads the Extreme Performance Intelligent Control group at Toyota Research Institute (TRI).  His research interests include algorithms for vehicle control that match the performance, robustness, and adaptability of the best human (racing) drivers.
