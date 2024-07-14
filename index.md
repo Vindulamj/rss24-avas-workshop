@@ -25,7 +25,7 @@ In this workshop, we encourage discussion and collaboration across the three ‘
 
 ### Schedule
 
-The workshop will be held in-person as a full day workshop on July 15 in Delft, Netherlands. 
+The workshop will be held in-person as a full day workshop on July 15 in <b>IDE Studio 23/24 at TU Delft, Netherlands</b>. [See the Google Maps location](https://maps.app.goo.gl/4F6q9rbF9p7xvziF7)
 
 A link to live stream of the workshop will be provided closer to the date. The recording will be made available through Youtube after the workshop.
 <table>
