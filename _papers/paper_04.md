@@ -1,6 +1,6 @@
 ---
 # Determines which paper appears first (lowest number (0) appears first)
-sequence_id: 0
+sequence_id: 4
 
 # Paper title
 title: Securing Autonomous Vehicle Networks: Strategic Defence Against Communication Attacks

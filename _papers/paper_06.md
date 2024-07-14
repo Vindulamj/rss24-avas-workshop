@@ -1,6 +1,6 @@
 ---
 # Determines which paper appears first (lowest number (0) appears first)
-sequence_id: 0
+sequence_id: 6
 
 # Paper title
 title: Benchmarking Reinforcement Learning for Network-level Coordination of Autonomous Mobility-on-Demand Systems Across Scales

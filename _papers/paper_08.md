@@ -1,6 +1,6 @@
 ---
 # Determines which paper appears first (lowest number (0) appears first)
-sequence_id: 0
+sequence_id: 8
 
 # Paper title
 title: Localization System Enhanced with CDLPE: A Low-Cost, Resilient Map-Matching Algorithm

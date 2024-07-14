@@ -1,6 +1,6 @@
 ---
 # Determines which paper appears first (lowest number (0) appears first)
-sequence_id: 0
+sequence_id: 2
 
 # Paper title
 title: Experimental verification of a scalable protocol for vehicle platooning

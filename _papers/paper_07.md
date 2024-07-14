@@ -1,6 +1,6 @@
 ---
 # Determines which paper appears first (lowest number (0) appears first)
-sequence_id: 0
+sequence_id: 7
 
 # Paper title
 title: Learning Lane Graphs from Aerial Imagery Using Transformers

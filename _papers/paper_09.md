@@ -1,6 +1,6 @@
 ---
 # Determines which paper appears first (lowest number (0) appears first)
-sequence_id: 0
+sequence_id: 9
 
 # Paper title
 title: Query-Centric Inverse Reinforcement Learning for Motion Forecasting in Autonomous Driving

@@ -1,6 +1,6 @@
 ---
 # Determines which paper appears first (lowest number (0) appears first)
-sequence_id: 0
+sequence_id: 3
 
 # Paper title
 title: Sparse Gaussian Process-Based Strategies for Two-Layer Model Predictive Control in Autonomous Vehicle Drifting
