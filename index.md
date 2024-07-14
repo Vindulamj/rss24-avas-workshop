@@ -42,7 +42,14 @@ A link to live stream of the workshop will be provided closer to the date. The r
   </tr>
   <tr>
     <td>9:00 am - 9:40 am</td>
-    <td>Invited Talk 1 (Scale 1): Marco Pavone (NVIDIA)</td>
+    <td>Invited Talk 1 (Scale 1): Marco Pavone (NVIDIA)
+    <details>
+    </strong></summary>
+      <summary><strong>Title:</strong></summary>
+      <p><em>Rethinking AV Development with AV Foundation Models</em></p>
+      <p><strong>Abstract:</strong> Foundation models, trained on vast and diverse data encompassing the human experience, are at the heart of the ongoing AI revolution influencing the way we create, problem solve, and work. These models, and the lessons learned from their construction, can also be applied to the way we develop a similarly transformative technology, autonomous vehicles. In this talk, I will highlight recent research efforts towards rethinking elements of an AV program both in the vehicle and in the data center, with an emphasis on (1) composing ingredients for universal and controllable end-to-end simulation, (2) architecting autonomy stacks that leverage foundation models to generalize to long-tail events, and (3) ensuring safety with foundation models in the loop.</p>
+    </details>
+    </td>
   </tr>
   <tr>
     <td>9:40 am - 9:50 am</td>
