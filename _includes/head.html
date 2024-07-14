@@ -10,5 +10,17 @@
   {%- endif -%}
 
   {%- include custom-head.html -%}
+
+  <style>
+    details summary::before {
+      content: '▶';
+      display: inline-block;
+      margin-right: 5px;
+      transition: transform 0.2s;
+    }
+    details[open] summary::before {
+      transform: rotate(90deg);
+    }
+  </style>
   
 </head>
