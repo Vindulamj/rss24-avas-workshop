@@ -3,13 +3,13 @@
 sequence_id: 0
 
 # Paper title
-title: placeholder
+title: Query-Centric Inverse Reinforcement Learning for Motion Forecasting in Autonomous Driving
 
 # Paper authors
-authors:  Jon Doe, Jane Doe, John Doe
+authors: Muleilan Pei, Shaojie Shen
 
 # Author affiliations
-affil: placeholder
+affil: Hong Kong University of Science and Technology
 
 # Link to the paper's pdf (place in the `assets/pdf/papers` directory)
 openreview: https://openreview.net

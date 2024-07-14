@@ -3,13 +3,13 @@
 sequence_id: 0
 
 # Paper title
-title: placeholder
+title: Task-Driven Co-Design for Resource-Efficient Autonomous Vehicles: Integrating Perception and Motion Planning
 
 # Paper authors
-authors:  Jon Doe, Jane Doe, John Doe
+authors: Dejan Milojevic, Gioele Zardini, Miriam Elser, Andrea Censi, Emilio Frazzoli
 
 # Author affiliations
-affil: placeholder
+affil: ETH Zurich, Empa, Stanford University, MIT
 
 # Link to the paper's pdf (place in the `assets/pdf/papers` directory)
 openreview: https://openreview.net

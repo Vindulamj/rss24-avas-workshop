@@ -3,13 +3,13 @@
 sequence_id: 0
 
 # Paper title
-title: placeholder
+title: Experimental verification of a scalable protocol for vehicle platooning
 
 # Paper authors
-authors:  Jon Doe, Jane Doe, John Doe
+authors: Thijs van Oorschot, Mark Jeeninga, Emma Tegling
 
 # Author affiliations
-affil: placeholder
+affil: Eindhoven University of Technology, Lund University
 
 # Link to the paper's pdf (place in the `assets/pdf/papers` directory)
 openreview: https://openreview.net

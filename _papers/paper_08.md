@@ -3,13 +3,13 @@
 sequence_id: 0
 
 # Paper title
-title: placeholder
+title: Localization System Enhanced with CDLPE: A Low-Cost, Resilient Map-Matching Algorithm
 
 # Paper authors
-authors:  Jon Doe, Jane Doe, John Doe
+authors: Yanyan Wang
 
 # Author affiliations
-affil: placeholder
+affil: Baidu
 
 # Link to the paper's pdf (place in the `assets/pdf/papers` directory)
 openreview: https://openreview.net

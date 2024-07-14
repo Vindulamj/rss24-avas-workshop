@@ -3,13 +3,13 @@
 sequence_id: 0
 
 # Paper title
-title: placeholder
+title: Benchmarking Reinforcement Learning for Network-level Coordination of Autonomous Mobility-on-Demand Systems Across Scales
 
 # Paper authors
-authors:  Jon Doe, Jane Doe, John Doe
+authors: Luigi Tresca, Daniele Gammelli, James Harrison, Gioele Zardini, Marco Pavone
 
 # Author affiliations
-affil: placeholder
+affil: Politecnico di Torino, Stanford University, Google DeepMind, MIT
 
 # Link to the paper's pdf (place in the `assets/pdf/papers` directory)
 openreview: https://openreview.net

@@ -3,13 +3,13 @@
 sequence_id: 0
 
 # Paper title
-title: placeholder
+title: Learning Lane Graphs from Aerial Imagery Using Transformers
 
 # Paper authors
-authors:  Jon Doe, Jane Doe, John Doe
+authors: Martin Büchner, Simon Dorer, Abhinav Valada
 
 # Author affiliations
-affil: placeholder
+affil: University of Freiburg
 
 # Link to the paper's pdf (place in the `assets/pdf/papers` directory)
 openreview: https://openreview.net

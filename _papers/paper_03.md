@@ -3,13 +3,13 @@
 sequence_id: 0
 
 # Paper title
-title: placeholder
+title: Sparse Gaussian Process-Based Strategies for Two-Layer Model Predictive Control in Autonomous Vehicle Drifting
 
 # Paper authors
-authors:  Jon Doe, Jane Doe, John Doe
+authors: Cheng Hu, Yangyang Xie, Lei Xie, Haokun Xiong, Hongye Su, Michele Magno
 
 # Author affiliations
-affil: placeholder
+affil: Zhejiang University, ETH Zurich
 
 # Link to the paper's pdf (place in the `assets/pdf/papers` directory)
 openreview: https://openreview.net

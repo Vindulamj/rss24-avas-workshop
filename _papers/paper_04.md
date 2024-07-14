@@ -3,13 +3,13 @@
 sequence_id: 0
 
 # Paper title
-title: placeholder
+title: Securing Autonomous Vehicle Networks: Strategic Defence Against Communication Attacks
 
 # Paper authors
-authors:  Jon Doe, Jane Doe, John Doe
+authors: Leandro Parada, Panagiotis Angeloudis
 
 # Author affiliations
-affil: placeholder
+affil: Imperial College London
 
 # Link to the paper's pdf (place in the `assets/pdf/papers` directory)
 openreview: https://openreview.net
