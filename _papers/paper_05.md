@@ -3,7 +3,7 @@
 sequence_id: 5
 
 # Paper title
-title: Task-Driven Co-Design for Resource-Efficient Autonomous Vehicles: Integrating Perception and Motion Planning
+title: Task-Driven Co-Design for Resource-Efficient Autonomous Vehicles- Integrating Perception and Motion Planning
 
 # Paper authors
 authors: Dejan Milojevic, Gioele Zardini, Miriam Elser, Andrea Censi, Emilio Frazzoli

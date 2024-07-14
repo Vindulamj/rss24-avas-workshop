@@ -3,13 +3,13 @@
 sequence_id: 1
 
 # Paper title
-title: RuleFuser: Injecting Rules in Evidential Networks for Robust Out-of-Distribution Trajectory Prediction
+title: RuleFuser- Injecting Rules in Evidential Networks for Robust Out-of-Distribution Trajectory Prediction
 
 # Paper authors
 authors: Jay Patrikar, Sushant Veer, Apoorva Sharma, Marco Pavone, Sebastian Scherer
 
 # Author affiliations
-affil:  Carnegie Mellon University, NVIDIA, Stanford University
+affil: Carnegie Mellon University, NVIDIA, Stanford University
 
 # Link to the paper's pdf (place in the `assets/pdf/papers` directory)
 openreview: https://openreview.net

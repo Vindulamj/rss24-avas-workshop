@@ -3,13 +3,13 @@
 sequence_id: 0
 
 # Paper title
-title: 	Versatile Scene-Consistent Traffic Scenario Generation as Optimization with Diffusion
+title: Versatile Scene-Consistent Traffic Scenario Generation as Optimization with Diffusion
 
 # Paper authors
-authors:  Zixu Zhang, Zhiyu Huang, Ameya Vaidya, Chen Lv, Jaime Fernández Fisac
+authors: Zixu Zhang, Zhiyu Huang, Ameya Vaidya, Chen Lv, Jaime Fernández Fisac
 
 # Author affiliations
-affil:  Nanyang Technological University, Princeton University
+affil: Nanyang Technological University, Princeton University
 
 # Link to the paper's pdf (place in the `assets/pdf/papers` directory)
 openreview: https://openreview.net

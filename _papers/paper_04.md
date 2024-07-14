@@ -3,7 +3,7 @@
 sequence_id: 4
 
 # Paper title
-title: Securing Autonomous Vehicle Networks: Strategic Defence Against Communication Attacks
+title: Securing Autonomous Vehicle Networks- Strategic Defence Against Communication Attacks
 
 # Paper authors
 authors: Leandro Parada, Panagiotis Angeloudis

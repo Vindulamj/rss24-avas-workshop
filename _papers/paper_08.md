@@ -3,7 +3,7 @@
 sequence_id: 8
 
 # Paper title
-title: Localization System Enhanced with CDLPE: A Low-Cost, Resilient Map-Matching Algorithm
+title: Localization System Enhanced with CDLPE- A Low-Cost, Resilient Map-Matching Algorithm
 
 # Paper authors
 authors: Yanyan Wang
