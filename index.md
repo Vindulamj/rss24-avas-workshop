@@ -90,7 +90,7 @@ A link to live stream of the workshop will be provided closer to the date. The r
   </tr>
   <tr>
     <td>4:00 pm - 4:50 pm</td>
-    <td>Panel Discussion: Marco Pavone, Samitha Samaranayake, John Subosits, Eugene Vinitsky</td>
+    <td>Panel Discussion: Samitha Samaranayake, John Subosits, Eugene Vinitsky</td>
   </tr>
   <tr>
     <td>4:45 pm - 5:00 pm</td>
