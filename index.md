@@ -27,7 +27,8 @@ In this workshop, we encourage discussion and collaboration across the three ‘
 
 The workshop will be held in-person as a full day workshop on July 15 in <b>IDE Studio 23/24 at TU Delft, Netherlands</b>. ([Google Maps location](https://maps.app.goo.gl/4F6q9rbF9p7xvziF7))
 
-A link to live stream of the workshop will be provided closer to the date. The recording will be made available through Youtube after the workshop.
+The Zoom link to the live streaming of the workshop can be found [here](https://mit.zoom.us/j/96460106068). The recording will be made available on YouTube after the workshop.
+
 <table>
 <thead>
   <tr>
