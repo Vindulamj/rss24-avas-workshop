@@ -27,7 +27,7 @@ In this workshop, we encourage discussion and collaboration across the three ‘
 
 The workshop will be held in-person as a full day workshop on July 15 in <b>IDE Studio 23/24 at TU Delft, Netherlands</b>. ([Google Maps location](https://maps.app.goo.gl/4F6q9rbF9p7xvziF7))
 
-The Zoom link to the live streaming of the workshop can be found [here](https://mit.zoom.us/j/96460106068). The recording will be made available on YouTube after the workshop.
+All talk videos are available <a href="https://www.youtube.com/playlist?list=PLVJEb_y9MYLL9q14NDxTjQXOFMwb6uPGz"> here</a>. 
 
 <table>
 <thead>
@@ -39,11 +39,11 @@ The Zoom link to the live streaming of the workshop can be found [here](https://
 <tbody>
   <tr>
     <td>8.45 am - 9:00 am</td>
-    <td>Introductory Remarks</td>
+    <td>Introductory Remarks: Cathy Wu (MIT) 📹 <a href="https://youtu.be/ACvCRbwz91s?list=PLVJEb_y9MYLL9q14NDxTjQXOFMwb6uPGz"> Video </a> </td>
   </tr>
   <tr>
     <td>9:00 am - 9:40 am</td>
-    <td>Invited Talk 1 (Scale 1): Marco Pavone (NVIDIA)
+    <td>Invited Talk 1 (Scale 1): Marco Pavone (NVIDIA) 📹 <a href="https://youtu.be/OD5pWncmw-I?list=PLVJEb_y9MYLL9q14NDxTjQXOFMwb6uPGz"> Video </a>
     <details>
       <summary>Talk title and abstract</summary>
       <p></p>
@@ -54,11 +54,11 @@ The Zoom link to the live streaming of the workshop can be found [here](https://
   </tr>
   <tr>
     <td>9:40 am - 9:50 am</td>
-    <td>Spotlight Talk 1 (Scale 1)</td>
+    <td>Spotlight Talk 1 (Scale 1) 📹 <a href="https://youtu.be/6k5yUG8Lwr4?list=PLVJEb_y9MYLL9q14NDxTjQXOFMwb6uPGz"> Video </a> </td>
   </tr>
   <tr>
     <td>9:50 am - 10.00 am</td>
-    <td>Spotlight Talk 2 (Scale 2)</td>
+    <td>Spotlight Talk 2 (Scale 2) 📹 <a href="https://youtu.be/XHRGdMcmLAo?list=PLVJEb_y9MYLL9q14NDxTjQXOFMwb6uPGz"> Video </a> </td>
   </tr>
   <tr>
     <td>10:00 am - 10:30 am</td>
@@ -66,7 +66,7 @@ The Zoom link to the live streaming of the workshop can be found [here](https://
   </tr>
   <tr>
     <td>10:30 am - 11:10 am</td>
-    <td>Invited Talk 2 (Scale 3): Samitha Samaranayake (Cornell University) 📹 <a href="https://youtu.be/IXXxKgM-tw4?list=PLVJEb_y9MYLL9q14NDxTjQXOFMwb6uPGz"> Video </a></i> 
+    <td>Invited Talk 2 (Scale 3): Samitha Samaranayake (Cornell University) 📹 <a href="https://youtu.be/IXXxKgM-tw4?list=PLVJEb_y9MYLL9q14NDxTjQXOFMwb6uPGz"> Video </a>
     <details>
       <summary>Talk title and abstract</summary>
       <p></p>
@@ -77,7 +77,7 @@ The Zoom link to the live streaming of the workshop can be found [here](https://
   </tr>
   <tr>
     <td>11:10 am - 11:50 am</td>
-    <td>Invited Talk 3 (Scale 2): Eugene Vinitsky (New York University)
+    <td>Invited Talk 3 (Scale 2): Eugene Vinitsky (New York University) 📹 <a href="https://youtu.be/GvQbt2oXIgo?list=PLVJEb_y9MYLL9q14NDxTjQXOFMwb6uPGz"> Video </a></i> 
     <details>
       <summary>Talk title and abstract</summary>
       <p></p>
@@ -88,7 +88,7 @@ The Zoom link to the live streaming of the workshop can be found [here](https://
   </tr>
   <tr>
     <td>11:50 am - 12:30 pm</td>
-    <td>Invited Talk 4 (Scale 1): John Subosits (Toyota Research Institute)
+    <td>Invited Talk 4 (Scale 1): John Subosits (Toyota Research Institute) 📹 <a href="https://youtu.be/oc1ICpIl2GU?list=PLVJEb_y9MYLL9q14NDxTjQXOFMwb6uPGz"> Video </a>
     <details>
       <summary>Talk title and abstract</summary>
       <p></p>
@@ -103,11 +103,11 @@ The Zoom link to the live streaming of the workshop can be found [here](https://
   </tr>
   <tr>
     <td>2:00 pm - 2:10 pm</td>
-    <td>Spotlight Talk 3 (Scale 3)</td>
+    <td>Spotlight Talk 3 (Scale 3)  📹 <a href="https://youtu.be/Kg7tgK5UOPQ?list=PLVJEb_y9MYLL9q14NDxTjQXOFMwb6uPGz"> Video </a> </td>
   </tr>
   <tr>
     <td>2:10 pm - 2:50 pm</td>
-    <td>Invited Talk 5 (Scale 3): Alan Rao (U.S. DOT Volpe National Transportation Systems Center)
+    <td>Invited Talk 5 (Scale 3): Alan Rao (U.S. DOT Volpe National Transportation Systems Center) 📹 <a href="https://youtu.be/QxchU2KCNkY?list=PLVJEb_y9MYLL9q14NDxTjQXOFMwb6uPGz"> Video </a>
     <details>
       <summary>Talk title and abstract</summary>
       <p></p>
@@ -118,7 +118,7 @@ The Zoom link to the live streaming of the workshop can be found [here](https://
   </tr>
   <tr>
     <td>2:50 pm - 3:30 pm</td>
-    <td>Invited Talk 6 (Scale 2): Negar Mehr (UC Berkeley)
+    <td>Invited Talk 6 (Scale 2): Negar Mehr (UC Berkeley) 📹 <a href="https://youtu.be/02i2hem65uI?list=PLVJEb_y9MYLL9q14NDxTjQXOFMwb6uPGz"> Video </a>
     <details>
       <summary>Talk title and abstract</summary>
       <p></p>
@@ -133,7 +133,7 @@ The Zoom link to the live streaming of the workshop can be found [here](https://
   </tr>
   <tr>
     <td>4:00 pm - 4:50 pm</td>
-    <td>Panel Discussion: Samitha Samaranayake, John Subosits, Eugene Vinitsky</td>
+    <td>Panel Discussion: Samitha Samaranayake, John Subosits, Eugene Vinitsky</td> 
   </tr>
   <tr>
     <td>4:45 pm - 5:00 pm</td>
