@@ -66,7 +66,7 @@ The Zoom link to the live streaming of the workshop can be found [here](https://
   </tr>
   <tr>
     <td>10:30 am - 11:10 am</td>
-    <td>Invited Talk 2 (Scale 3): Samitha Samaranayake (Cornell University) <i class="fa-solid fa-video"> <a href="https://youtu.be/IXXxKgM-tw4?list=PLVJEb_y9MYLL9q14NDxTjQXOFMwb6uPGz"> Video </a></i> 
+    <td>Invited Talk 2 (Scale 3): Samitha Samaranayake (Cornell University) 📹 <a href="https://youtu.be/IXXxKgM-tw4?list=PLVJEb_y9MYLL9q14NDxTjQXOFMwb6uPGz"> Video </a></i> 
     <details>
       <summary>Talk title and abstract</summary>
       <p></p>
