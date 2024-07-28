@@ -16,6 +16,6 @@ affil: Nanyang Technological University, Princeton University
 pdf: 00.pdf
 
 # Link to a representative image for the paper (place in the `assets/img/papers` directory)
-img: 00.jpeg
+img: 00.pdf
 poster: 00.pdf
 ---

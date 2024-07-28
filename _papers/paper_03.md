@@ -12,10 +12,10 @@ authors: Cheng Hu, Yangyang Xie, Lei Xie, Haokun Xiong, Hongye Su, Michele Magno
 affil: Zhejiang University, ETH Zurich
 
 # Link to the paper's pdf (place in the `assets/pdf/papers` directory)
-openreview: https://openreview.net
-# pdf: 00.pdf
+#openreview: https://openreview.net
+pdf: 03.pdf
 
 # Link to a representative image for the paper (place in the `assets/img/papers` directory)
-img: 00.jpeg
-poster: 00.pdf
+img: 03.pdf
+poster: 03.pdf
 ---
