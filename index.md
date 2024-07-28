@@ -111,8 +111,7 @@ All talk videos are available <a href="https://www.youtube.com/playlist?list=PLV
     <details>
       <summary>Talk title and abstract</summary>
       <p></p>
-      <p><strong>Title:</strong>TBA</p>
-      <p><strong>Abstract:</strong> TBA </p>
+      <p><strong>Title:</strong> Research in autonomous vehicle across scales</p>
     </details>
     </td>
   </tr>
