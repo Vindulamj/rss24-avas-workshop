@@ -77,7 +77,7 @@ All talk videos are available <a href="https://www.youtube.com/playlist?list=PLV
   </tr>
   <tr>
     <td>11:10 am - 11:50 am</td>
-    <td>Invited Talk 3 (Scale 2): Eugene Vinitsky (New York University) 📹 <a href="https://youtu.be/GvQbt2oXIgo?list=PLVJEb_y9MYLL9q14NDxTjQXOFMwb6uPGz"> Video </a></i> 
+    <td>Invited Talk 3 (Scale 2): Eugene Vinitsky (New York University) 📹 <a href="https://youtu.be/GvQbt2oXIgo?list=PLVJEb_y9MYLL9q14NDxTjQXOFMwb6uPGz"> Video </a>
     <details>
       <summary>Talk title and abstract</summary>
       <p></p>
